@@ -1,0 +1,3 @@
+[submodule "StigLD_MediumServer"]
+	path = StigLD_MediumServer
+	url = https://github.com/dfki-asr/StigLD_MediumServer.git
