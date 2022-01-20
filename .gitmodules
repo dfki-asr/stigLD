@@ -4,3 +4,6 @@
 [submodule "StigLD-Demo"]
 	path = StigLD-Demo
 	url = https://github.com/dfki-asr/StigLD-Demo.git
+[submodule "StigFN_FusekiServer"]
+	path = StigFN_FusekiServer
+	url = git@github.com:dfki-asr/StigFN_FusekiServer.git
