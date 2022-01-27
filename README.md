@@ -1,3 +1,3 @@
 # stigLD
 
-StigLD is a domain model that can be used to create a stigmergic linked system. 
+StigLD is a framework that can be used to create a stigmergic Multi-Agent System (MAS).
